@@ -2,7 +2,7 @@
 
 **Smart analytics from public social media data, made simple.**
 
-![Socialcrab Logo](https://drive.google.com/file/d/1euDBDaRuL1i3e7OjS7FCCUsR3v27Wd4R/view?usp=drive_link))
+![Socialcrab Logo](https://drive.google.com/file/d/1euDBDaRuL1i3e7OjS7FCCUsR3v27Wd4R/view?usp=drive_link)
 
 ---
 
@@ -77,9 +77,9 @@ npm run start
 ```
 
 ### 4.  Use Cases
-Influencers discovering audience sentiment trends
-Marketers comparing competitor engagement in real-time
-Brands monitoring public opinion shifts
+- Influencers discovering audience sentiment trends
+- Marketers comparing competitor engagement in real-time
+- Brands monitoring public opinion shifts
 
 👥 Team
 Team Socialcrab
