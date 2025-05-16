@@ -81,9 +81,9 @@ npm run start
 - Brands monitoring public opinion shifts
 
 👥 Team
-Team Socialcrab
-Built in weeks during Collesoum
-Location: Indonesia
+- Team Socialcrab
+- Built in weeks during Collesoum
+- Location: Indonesia
 
 📄 License
 MIT License. See LICENSE for full terms.
