@@ -2,7 +2,6 @@
 
 **Smart analytics from public social media data, made simple.**
 
-![Socialcrab Logo](https://drive.google.com/file/d/1euDBDaRuL1i3e7OjS7FCCUsR3v27Wd4R/view?usp=drive_link)
 
 ---
 
